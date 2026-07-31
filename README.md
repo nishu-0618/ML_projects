@@ -12,4 +12,4 @@ A hands-on collection of machine learning algorithms, focusing on model intuitio
 
 ### 2. Decision Trees & Cost-Complexity Pruning
 - **Focus:** Preventing overfitting using `ccp_alpha` to prune weak branches.
-- **Notebook:** [View Notebook](./02_decision_trees_and_pruning.ipynb)
+
