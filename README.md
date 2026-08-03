@@ -12,6 +12,7 @@ A hands-on collection of machine learning algorithms, focusing on model intuitio
 
 ### 2. Decision Trees & Cost-Complexity Pruning
 - **Focus:** Preventing overfitting using `ccp_alpha` to prune weak branches.
+- **Notebook:** [View Pipeline Notebook](./02_decision_trees_and_pruning_ipynb.ipynb)
 
 ### 3. End-to-End Classification Pipeline & Hyperparameter Tuning
 - **Key Concepts:** Scikit-Learn Pipelines, 5-Fold Cross-Validation, GridSearchCV, Confusion Matrix, ROC-AUC Analysis.
