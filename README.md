@@ -19,4 +19,4 @@ A hands-on collection of machine learning algorithms, focusing on model intuitio
   1. Automated Feature Scaling using `StandardScaler`.
   2. Hyperparameter optimization on a Random Forest Classifier.
   3. Evaluated precision/recall balance and ROC-AUC metrics on unseen test data.
-- **Notebook:** [View Pipeline Notebook](./03_end_to_end_pipeline/classification_pipeline.ipynb)
+- **Notebook:** [View Pipeline Notebook](./end_to_end_pipeline/classification_pipeline.ipynb)
